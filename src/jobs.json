@@ -1,0 +1,64 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "title": "Desarrollador Frontend SR",
+            "time": "Full time",
+            "location": "Remote",
+            "salary": "$1000",
+            "company": "Starbucks",
+            "industry": "Fast Food",
+            "employees": "1000 - 4000",
+            "companyDescription": "Ualá es una compañía de tecnología que ofrece un ecosistema de soluciones financieras en el que ya confían más de 8 millones de personas en Argentina, México y Colombia. Fundada en octubre de 2017 por Pierpaolo Barbieri, su misión es llevar los servicios financieros en América Latina al siglo XXI. A través de una aplicación vinculada a una tarjeta internacional Mastercard, las personas usuarias pueden realizar una amplia variedad de transacciones financieras de manera fácil, segura y transparente. Esto incluye transferir dinero, pagar servicios, realizar cobros a través de Ualá Bis, acceder a opciones de crédito y herramientas de inversión, además de disfrutar del programa de beneficios y fidelización Ualá+, entre otras funcionalidades. Tras una ronda de inversión Serie D liderada por SoftBank Latin America Fund y Tencent en 2021, Ualá alcanzó una valuación de 2,450 millones de dólares, convirtiéndose en la ronda de inversión privada más grande que ha recibido una empresa argentina. Este hito refuerza su crecimiento y liderazgo en la región. La compañía cuenta con el apoyo de reconocidos inversores como Kevin Ryan, Soros Management Fund, Jefferies, Bessemer Ventures Partners, Point72, Greyhound Capital, Goldman Sachs, Ribbit Capital y Monashees.",
+            "description": "Si te apasiona el desarrollo frontend y tienes experiencia en la creación de interfaces dinámicas y optimizadas, esta oportunidad es para vos. Buscamos un profesional con sólidos conocimientos en tecnologías como React, Vue o Angular, capaz de implementar nuevas funcionalidades y mejorar la experiencia del usuario. Trabajarás en un equipo ágil, donde la autonomía y la toma de decisiones serán clave para lograr resultados de alto impacto. Es fundamental contar con experiencia en consumo de APIs REST y GraphQL, además de aplicar buenas prácticas de desarrollo para garantizar la performance y escalabilidad del código."
+        },
+        {
+            "id": 2,
+            "title": "Desarrollador Backend JR",
+            "time": "Part time",
+            "location": "CABA, Buenos Aires",
+            "salary": "$1000",
+            "company": "Starbucks",
+            "industry": "Fast Food",
+            "employees": "1000 - 4000",
+            "companyDescription": "Ualá es una compañía de tecnología que ofrece un ecosistema de soluciones financieras en el que ya confían más de 8 millones de personas en Argentina, México y Colombia. Fundada en octubre de 2017 por Pierpaolo Barbieri, su misión es llevar los servicios financieros en América Latina al siglo XXI. A través de una aplicación vinculada a una tarjeta internacional Mastercard, las personas usuarias pueden realizar una amplia variedad de transacciones financieras de manera fácil, segura y transparente. Esto incluye transferir dinero, pagar servicios, realizar cobros a través de Ualá Bis, acceder a opciones de crédito y herramientas de inversión, además de disfrutar del programa de beneficios y fidelización Ualá+, entre otras funcionalidades. Tras una ronda de inversión Serie D liderada por SoftBank Latin America Fund y Tencent en 2021, Ualá alcanzó una valuación de 2,450 millones de dólares, convirtiéndose en la ronda de inversión privada más grande que ha recibido una empresa argentina. Este hito refuerza su crecimiento y liderazgo en la región. La compañía cuenta con el apoyo de reconocidos inversores como Kevin Ryan, Soros Management Fund, Jefferies, Bessemer Ventures Partners, Point72, Greyhound Capital, Goldman Sachs, Ribbit Capital y Monashees.",
+            "description": "Si estás dando tus primeros pasos en el desarrollo backend y querés formar parte de un equipo en crecimiento, esta posición es ideal para vos. Buscamos a alguien con conocimientos básicos en tecnologías como Node.js, Python o Java, y que tenga interés en desarrollar y mantener sistemas escalables. Será importante que tengas nociones sobre bases de datos SQL y NoSQL, así como experiencia en la creación y consumo de APIs REST. No es necesario que seas un experto, pero sí que tengas ganas de aprender y mejorar constantemente."
+        },
+        {
+            "id": 3,
+            "title": "Desarrollador Fullstack",
+            "time": "Full time",
+            "location": "Castelar, Buenos Aires",
+            "salary": "$2000",
+            "company": "Starbucks",
+            "industry": "Fast Food",
+            "employees": "1000 - 4000",
+            "companyDescription": "Ualá es una compañía de tecnología que ofrece un ecosistema de soluciones financieras en el que ya confían más de 8 millones de personas en Argentina, México y Colombia. Fundada en octubre de 2017 por Pierpaolo Barbieri, su misión es llevar los servicios financieros en América Latina al siglo XXI. A través de una aplicación vinculada a una tarjeta internacional Mastercard, las personas usuarias pueden realizar una amplia variedad de transacciones financieras de manera fácil, segura y transparente. Esto incluye transferir dinero, pagar servicios, realizar cobros a través de Ualá Bis, acceder a opciones de crédito y herramientas de inversión, además de disfrutar del programa de beneficios y fidelización Ualá+, entre otras funcionalidades. Tras una ronda de inversión Serie D liderada por SoftBank Latin America Fund y Tencent en 2021, Ualá alcanzó una valuación de 2,450 millones de dólares, convirtiéndose en la ronda de inversión privada más grande que ha recibido una empresa argentina. Este hito refuerza su crecimiento y liderazgo en la región. La compañía cuenta con el apoyo de reconocidos inversores como Kevin Ryan, Soros Management Fund, Jefferies, Bessemer Ventures Partners, Point72, Greyhound Capital, Goldman Sachs, Ribbit Capital y Monashees.",
+            "description": "Esta es una excelente oportunidad para quienes disfrutan del desarrollo tanto en el frontend como en el backend. Como desarrollador fullstack, estarás a cargo de la creación y mantenimiento de aplicaciones web, desde la interfaz de usuario hasta la lógica del servidor. Nos interesa alguien con experiencia en React, Angular o Vue.js, y con sólidos conocimientos en Node.js, Python o PHP. También valoramos el manejo de bases de datos relacionales y NoSQL, así como el uso de herramientas como Docker y Git. Trabajarás en un entorno dinámico, donde la calidad del código y las buenas prácticas son fundamentales."
+        },
+        {
+            "id": 4,
+            "title": "Desarrollador Frontend",
+            "time": "Full time",
+            "location": "Remote",
+            "salary": "$4000",
+            "company": "Starbucks",
+            "industry": "Fast Food",
+            "employees": "1000 - 4000",
+            "companyDescription": "Ualá es una compañía de tecnología que ofrece un ecosistema de soluciones financieras en el que ya confían más de 8 millones de personas en Argentina, México y Colombia. Fundada en octubre de 2017 por Pierpaolo Barbieri, su misión es llevar los servicios financieros en América Latina al siglo XXI. A través de una aplicación vinculada a una tarjeta internacional Mastercard, las personas usuarias pueden realizar una amplia variedad de transacciones financieras de manera fácil, segura y transparente. Esto incluye transferir dinero, pagar servicios, realizar cobros a través de Ualá Bis, acceder a opciones de crédito y herramientas de inversión, además de disfrutar del programa de beneficios y fidelización Ualá+, entre otras funcionalidades. Tras una ronda de inversión Serie D liderada por SoftBank Latin America Fund y Tencent en 2021, Ualá alcanzó una valuación de 2,450 millones de dólares, convirtiéndose en la ronda de inversión privada más grande que ha recibido una empresa argentina. Este hito refuerza su crecimiento y liderazgo en la región. La compañía cuenta con el apoyo de reconocidos inversores como Kevin Ryan, Soros Management Fund, Jefferies, Bessemer Ventures Partners, Point72, Greyhound Capital, Goldman Sachs, Ribbit Capital y Monashees.",
+            "description": "Si te gusta diseñar y desarrollar interfaces atractivas, esta posición te permitirá explotar tu creatividad y habilidades técnicas. Nos interesa un desarrollador frontend con experiencia en frameworks modernos como React, Vue o Angular, y con un buen manejo de TypeScript y CSS avanzado. Tu trabajo consistirá en construir experiencias de usuario fluidas y optimizadas para diferentes dispositivos. Además, buscamos a alguien con conocimientos en herramientas de optimización y testing, que pueda trabajar en equipo y adaptarse a nuevas tecnologías para seguir mejorando constantemente."
+        },
+        {
+            "id": 5,
+            "title": "Desarrollador Python",
+            "time": "Part time",
+            "location": "Remote",
+            "salary": "$5000",
+            "company": "Starbucks",
+            "industry": "Fast Food",
+            "employees": "1000 - 4000",
+            "companyDescription": "Ualá es una compañía de tecnología que ofrece un ecosistema de soluciones financieras en el que ya confían más de 8 millones de personas en Argentina, México y Colombia. Fundada en octubre de 2017 por Pierpaolo Barbieri, su misión es llevar los servicios financieros en América Latina al siglo XXI. A través de una aplicación vinculada a una tarjeta internacional Mastercard, las personas usuarias pueden realizar una amplia variedad de transacciones financieras de manera fácil, segura y transparente. Esto incluye transferir dinero, pagar servicios, realizar cobros a través de Ualá Bis, acceder a opciones de crédito y herramientas de inversión, además de disfrutar del programa de beneficios y fidelización Ualá+, entre otras funcionalidades. Tras una ronda de inversión Serie D liderada por SoftBank Latin America Fund y Tencent en 2021, Ualá alcanzó una valuación de 2,450 millones de dólares, convirtiéndose en la ronda de inversión privada más grande que ha recibido una empresa argentina. Este hito refuerza su crecimiento y liderazgo en la región. La compañía cuenta con el apoyo de reconocidos inversores como Kevin Ryan, Soros Management Fund, Jefferies, Bessemer Ventures Partners, Point72, Greyhound Capital, Goldman Sachs, Ribbit Capital y Monashees.",
+            "description": "Si te especializás en Python y querés trabajar en proyectos innovadores, esta oportunidad te permitirá aplicar tus conocimientos en desarrollo de sistemas escalables e integración de datos. Buscamos a alguien con experiencia en frameworks como Django o Flask, y con un buen manejo de bases de datos SQL y NoSQL. También es importante que tengas conocimientos en desarrollo de APIs REST y WebSockets, así como en cloud computing con AWS, Azure o GCP. La optimización del código y la seguridad son aspectos clave en este rol, por lo que valoramos la capacidad de escribir código limpio y eficiente."
+        }
+    ]
+}
